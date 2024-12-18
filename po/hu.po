@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-18 13:25+0000\n"
+"POT-Creation-Date: 2024-12-15 13:08+0100\n"
 "PO-Revision-Date: 2021-11-03 15:10+0100\n"
 "Last-Translator: mcfly82\n"
 "Language-Team: mcfly82 & wysless\n"
@@ -1141,10 +1141,6 @@ msgstr "Hang PID"
 msgid "Audio PID%s, codec & lang"
 msgstr "Hang PID%s, kodek és nyelv"
 
-#, fuzzy
-msgid "Audio Selection Actions"
-msgstr "Kinézet választás műveletek"
-
 msgid "Audio auto volume level"
 msgstr "Hang automatikus hangerőszint"
 
@@ -1754,18 +1750,6 @@ msgid "Channel Info"
 msgstr "Csatorna információ"
 
 #, fuzzy
-msgid "Channel Select Base Actions"
-msgstr "Csatorna választás"
-
-#, fuzzy
-msgid "Channel Select Edit Actions"
-msgstr "Csatorna választás"
-
-#, fuzzy
-msgid "Channel SelectEPG Actions"
-msgstr "Csatorna választás"
-
-#, fuzzy
 msgid "Channel Selection"
 msgstr "Csatorna választás"
 
@@ -1900,10 +1884,6 @@ msgstr "Válassza ki a beállítandó tunert."
 msgid "Christmas Island"
 msgstr "Karácsony-sziget"
 
-#, fuzzy
-msgid "Ci Selection Actions"
-msgstr "Kinézet választás műveletek"
-
 msgid "Circular LNB"
 msgstr "Körpoláros fej"
 
@@ -1965,9 +1945,6 @@ msgstr "LP kódarány"
 msgid "Codec & lang%s"
 msgstr ""
 
-msgid "Collapse"
-msgstr ""
-
 msgid "Collection name"
 msgstr "Gyűjtemény neve"
 
@@ -1979,10 +1956,6 @@ msgstr "Kolumbia"
 
 msgid "Color"
 msgstr "Szín"
-
-#, fuzzy
-msgid "Color Actions"
-msgstr "Kinézet választás műveletek"
 
 msgid "Color format"
 msgstr "Színformátum"
@@ -2011,6 +1984,10 @@ msgstr "CI modulfogadó"
 msgid "Common Interface assignment"
 msgstr "CI hozzárendelés"
 
+#, fuzzy
+msgid "Common Setup Actions"
+msgstr "Kinézet választás műveletek"
+
 msgid "Communication"
 msgstr "Kommunikáció"
 
@@ -2029,9 +2006,8 @@ msgstr "Komplex (engedélyezi a hangfolyamok és méretarányok keverését)"
 msgid "Composition of the recording filenames"
 msgstr "A felvételi fájlnevek összeállítása"
 
-#, fuzzy
-msgid "Config List Actions"
-msgstr "Kinézet választás műveletek"
+msgid "Compress"
+msgstr "Tömörítés"
 
 msgid "Config Scan Details"
 msgstr "Keresési adatok beállítása"
@@ -2584,14 +2560,6 @@ msgstr "A csatornalista kurzorának testreszabása"
 msgid "Cut"
 msgstr "Vágás"
 
-#, fuzzy
-msgid "Cut List Editor Actions"
-msgstr "Film-vágó"
-
-#, fuzzy
-msgid "Cutlist Seek Actions"
-msgstr "Film-vágó"
-
 msgid "Cutlist editor"
 msgstr "Film-vágó"
 
@@ -2659,18 +2627,6 @@ msgstr "DVD Írás"
 
 msgid "DVD Menu"
 msgstr "DVD Menü"
-
-#, fuzzy
-msgid "DVD Player Actions"
-msgstr "DVD lejátszó"
-
-#, fuzzy
-msgid "DVD Title List"
-msgstr "DVD Címlista"
-
-#, fuzzy
-msgid "DVD Toolbox"
-msgstr "DVD media toolbox"
 
 msgid "DVD data format"
 msgstr "DVD adat formátum"
@@ -2963,10 +2919,6 @@ msgstr "Digitális körvonal-eltávolítás"
 msgid "Direct playback of linked titles without menu"
 msgstr "Linkelt tételek menü nélküli közvetlen lejátszása"
 
-#, fuzzy
-msgid "Direction Actions"
-msgstr "Kinézet választás műveletek"
-
 msgid "Directory"
 msgstr "Mappa"
 
@@ -3094,10 +3046,6 @@ msgid ""
 msgstr ""
 "Biztos benne, hogy le szeretné ellenőrizni a fájlrendszert?\n"
 "Ez hosszú ideig is eltarthat!"
-
-#, fuzzy
-msgid "Do you really want to clear this playlist?"
-msgstr "Biztos benne, hogy törölni szeretné ezt a tételt: %s?"
 
 #, python-format
 msgid "Do you really want to delete %s?"
@@ -3300,10 +3248,6 @@ msgstr ""
 
 msgid "EPG"
 msgstr "EPG"
-
-#, fuzzy
-msgid "EPG Select Actions"
-msgstr "Művelet kiválasztása"
 
 msgid "EPG language selection 1"
 msgstr "EPG nyelvválasztás 1"
@@ -3701,14 +3645,6 @@ msgstr "Ethernet hálózati interfész"
 
 msgid "Ethiopia"
 msgstr "Etiópia"
-
-#, fuzzy
-msgid "Event View Actions"
-msgstr "Esemény-nézet menü"
-
-#, fuzzy
-msgid "Event ViewEPG Actions"
-msgstr "Esemény-nézet menü"
 
 msgid "Event font size (relative to skin size)"
 msgstr "Esemény betűmérete (kinézet méretéhez viszonyítva)"
@@ -4217,10 +4153,6 @@ msgstr "Teljes képernyő felbontás"
 msgid "Fullbackup Images"
 msgstr "Tartalék távoli időzítő"
 
-#, fuzzy
-msgid "Function Key Actions"
-msgstr "Az OK gomb funkciója"
-
 msgid "Function of OK button"
 msgstr "Az OK gomb funkciója"
 
@@ -4235,10 +4167,6 @@ msgstr "G"
 
 msgid "GB"
 msgstr "GB"
-
-#, fuzzy
-msgid "GMEPG Select Actions"
-msgstr "Művelet kiválasztása"
 
 msgid "GREEN"
 msgstr ""
@@ -4295,9 +4223,6 @@ msgstr "Ghána"
 
 msgid "Gibraltar"
 msgstr "Gibraltár"
-
-msgid "Global Actions"
-msgstr ""
 
 msgid "Go down the list"
 msgstr "A listán lefelé"
@@ -4531,10 +4456,6 @@ msgid "Help"
 msgstr ""
 
 #, fuzzy
-msgid "Help Actions"
-msgstr "Művelet kiválasztása"
-
-#, fuzzy
 msgid "Help Screen"
 msgstr "Képernyő megtartás"
 
@@ -4613,10 +4534,6 @@ msgstr "HotKey beállítás"
 
 msgid "Hotkey"
 msgstr "Hotkey"
-
-#, fuzzy
-msgid "Hotkey Actions"
-msgstr "továbboktatás"
 
 msgid "Hotkey Panic"
 msgstr "Pánik gomb"
@@ -4856,90 +4773,8 @@ msgstr "Információs sáv"
 msgid "Info bar timeout"
 msgstr "Információs sáv megjelenítési ideje"
 
-#, fuzzy
-msgid "Infobar Actions"
-msgstr "Információs sáv megjelenítési ideje"
-
-#, fuzzy
-msgid "Infobar Audio Selection Actions"
-msgstr "Kinézet választás műveletek"
-
-#, fuzzy
-msgid "Infobar Channel Selection"
-msgstr "Csatorna választás"
-
-msgid "Infobar Cue Sheet Actions"
-msgstr ""
-
-#, fuzzy
-msgid "Infobar Extensions"
-msgstr "Bővítmények telepítése"
-
-#, fuzzy
-msgid "Infobar Instant Record"
-msgstr "Felvétel azonnali indítása"
-
-#, fuzzy
-msgid "Infobar Menu Actions"
-msgstr "Információs sáv megjelenítési ideje"
-
-#, fuzzy
-msgid "Infobar Movie List Actions"
-msgstr "Filmlista beállítása"
-
-#, fuzzy
-msgid "Infobar PiP Actions"
-msgstr "Információs sáv megjelenítési ideje"
-
-#, fuzzy
-msgid "Infobar Rds Actions"
-msgstr "Információs sáv megjelenítési ideje"
-
-msgid "Infobar Red Button Actions"
-msgstr ""
-
-#, fuzzy
-msgid "Infobar Seek Actions"
-msgstr "Kinézet választás műveletek"
-
-msgid "Infobar Show Hide Actions"
-msgstr ""
-
-msgid "Infobar Subservice Quickzap Actions"
-msgstr ""
-
-#, fuzzy
-msgid "Infobar Subservice Selection Actions"
-msgstr "Kinézet választás műveletek"
-
-#, fuzzy
-msgid "Infobar Subtitle Selection Actions"
-msgstr "Kinézet választás műveletek"
-
-#, fuzzy
-msgid "Infobar Teletext Actions"
-msgstr "Kinézet választás műveletek"
-
-msgid "Infobar Timer Button Actions"
-msgstr ""
-
-#, fuzzy
-msgid "Infobar Timeshift Actions"
-msgstr "Időcsúsztatás tárhelye"
-
-#, fuzzy
-msgid "Infobar Timeshift Activate Actions"
-msgstr "Időcsúsztatás tárhelye"
-
-msgid "Infobar Vmode Button Actions"
-msgstr ""
-
 msgid "Infobar frontend data source"
 msgstr "Információs sáv adat forrása"
-
-#, fuzzy
-msgid "InfobarEPG Actions"
-msgstr "Információs sáv megjelenítési ideje"
 
 msgid "Information"
 msgstr "Információk"
@@ -4987,16 +4822,6 @@ msgstr "Bevitel"
 msgid "Input "
 msgstr "Bevitel "
 
-#, fuzzy
-msgid "Input Actions"
-msgstr "Bevitel "
-
-msgid "Input Ascii Actions"
-msgstr ""
-
-msgid "Input Box Actions"
-msgstr ""
-
 msgid "Input Stream ID"
 msgstr "Stream ID bevitel"
 
@@ -5028,10 +4853,6 @@ msgstr "Helyi bővítmények telepítése"
 
 msgid "Install picons on"
 msgstr "Pikonok telepítése ide"
-
-#, fuzzy
-msgid "Install plugin"
-msgstr "Telepítés"
 
 msgid "Installation has completed."
 msgstr "Telepítés kész."
@@ -5217,10 +5038,6 @@ msgstr "Gomb események"
 msgid "Keyboard"
 msgstr "Billentyűzet"
 
-#, fuzzy
-msgid "Keyboard Input Actions"
-msgstr "Virtuális Billentyűzet Funkciók"
-
 msgid "Keyboard data entry"
 msgstr "Billentyűzet adatainak megadása"
 
@@ -5391,13 +5208,6 @@ msgid "List version %(ver)d, found %(num)d channel"
 msgid_plural "List version %(ver)d, found %(num)d channels"
 msgstr[0] "%(ver)d listaverzió, %(num)d csatornát találtam"
 msgstr[1] "%(ver)d listaverzió, %(num)d csatornát találtam"
-
-#, fuzzy
-msgid "Listbox Actions"
-msgstr "Tárhely"
-
-msgid "Listbox Help Menu Actions"
-msgstr ""
 
 msgid "Listen to the radio..."
 msgstr "Rádiólista megnyitása..."
@@ -5618,16 +5428,6 @@ msgstr "Talán egy felvétel folyamatban van. Állítsa le a felvételt, mielőt
 msgid "Mayotte"
 msgstr "Mayotte"
 
-#, fuzzy
-msgid "Media Player Actions"
-msgstr "Médialejátszó"
-
-msgid "Media Player Cue Sheet Actions"
-msgstr ""
-
-msgid "Media Player Seek Actions"
-msgstr ""
-
 msgid "Media player"
 msgstr "Médialejátszó"
 
@@ -5651,10 +5451,6 @@ msgstr "Memóriaindex"
 
 msgid "Menu"
 msgstr "Menü"
-
-#, fuzzy
-msgid "Menu Actions"
-msgstr "Kinézet választás műveletek"
 
 #, fuzzy
 msgid "Menu button function"
@@ -5685,10 +5481,6 @@ msgstr "Minimális korhatár %d év"
 
 msgid "Minimum send interval"
 msgstr "Minimális ismétlési időköz"
-
-#, fuzzy
-msgid "Minute Input Actions"
-msgstr "Művelet kiválasztása"
 
 msgid "Missing "
 msgstr "Hiányzó "
@@ -5847,14 +5639,6 @@ msgstr "Mozgatás sorszámra"
 msgid "Movement"
 msgstr "Mozgás"
 
-#, fuzzy
-msgid "Movie Player Actions"
-msgstr "Filmválasztás"
-
-#, fuzzy
-msgid "Movie Selection Actions"
-msgstr "Kinézet választás műveletek"
-
 msgid "Movie list configuration"
 msgstr "Filmlista beállítása"
 
@@ -5881,9 +5665,6 @@ msgstr "Mozgatás nyugat felé..."
 
 msgid "Mozambique"
 msgstr "Mozambik"
-
-msgid "Msg Box Actions"
-msgstr ""
 
 msgid "Multi EPG"
 msgstr "Multi EPG"
@@ -5969,10 +5750,6 @@ msgstr "Nauru"
 
 msgid "Navigate up/down with UP/DOWN buttons and page up/down with LEFT/RIGHT. EXIT to return to the help screen. OK to perform the action described in the currently highlighted help."
 msgstr ""
-
-#, fuzzy
-msgid "Navigation Actions"
-msgstr "Kinézet választás műveletek"
 
 msgid "Nepal"
 msgstr "Nepál"
@@ -6310,10 +6087,6 @@ msgstr "Most játszott"
 msgid "Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK."
 msgstr "Most a kontraszt beállító funkció segítségével állítsa be a háttér világosságát a lehető legmagasabb értékre, de arra ügyeljen hogy a két világosság csík között lásson különbséget. Ha készen van, nyomja meg az OK gombot."
 
-#, fuzzy
-msgid "Number Actions"
-msgstr "továbboktatás"
-
 msgid "Number of channels shown in channel selection list"
 msgstr "A csatornalistában megjelenő csatornák száma"
 
@@ -6356,10 +6129,6 @@ msgstr "Ki"
 
 msgid "Offline decode delay (ms)"
 msgstr "Offline dekódolási késleltetés (ms)"
-
-#, fuzzy
-msgid "Ok Cancel Actions"
-msgstr "Megszakítja a végrehajtást?"
 
 msgid "Oman"
 msgstr "Omán"
@@ -6666,10 +6435,6 @@ msgstr "Peru"
 
 msgid "Philippines"
 msgstr "Fülöp-szigetek"
-
-#, fuzzy
-msgid "PiP Setup Actions"
-msgstr "Kinézet választás műveletek"
 
 msgid "PiP setup"
 msgstr "Kép-a-Képben beállítások"
@@ -7047,9 +6812,6 @@ msgstr "Forgatómotor beállítás"
 msgid "Positioner setup log"
 msgstr "Forgatómotor beállítás naplózás"
 
-msgid "Power Key Actions"
-msgstr ""
-
 msgid "Power LED"
 msgstr "LED jelző fény"
 
@@ -7384,10 +7146,6 @@ msgstr "Ram Disk"
 msgid "Random"
 msgstr "Véletlenszerű"
 
-#, fuzzy
-msgid "Rass Interactive Actions"
-msgstr "Rass interaktív szolgáltatás használata..."
-
 #, python-format
 msgid "Rating defined by broadcaster - %d"
 msgstr "Adás besorolása - %d"
@@ -7605,10 +7363,6 @@ msgstr "Kuka kiürítése ennyi nap után"
 
 msgid "Remove new found flag"
 msgstr "'új' jelző eltávolítása"
-
-#, fuzzy
-msgid "Remove plugin"
-msgstr "Bővítmények eltávolítása"
 
 msgid "Remove plugins"
 msgstr "Bővítmények eltávolítása"
@@ -7974,9 +7728,6 @@ msgstr "Műhold pozíció:"
 
 msgid "Satellites"
 msgstr "Műholdak"
-
-msgid "Satlist Shortcut Action"
-msgstr ""
 
 msgid "Sats"
 msgstr "Műholdak"
@@ -8773,10 +8524,6 @@ msgstr "A beállítások könyvtáranként különbözőek lehetnek (csak nem-el
 msgid "Setup"
 msgstr "Beállítások"
 
-#, fuzzy
-msgid "Setup Actions"
-msgstr "Kinézet választás műveletek"
-
 msgid "Setup hard disk"
 msgstr "Háttértár beállítása"
 
@@ -8806,10 +8553,6 @@ msgstr "Shift"
 
 msgid "Short filenames"
 msgstr "Rövid fájlnevek"
-
-#, fuzzy
-msgid "Shortcut Actions"
-msgstr "Művelet kiválasztása"
 
 msgid "Show"
 msgstr "Mutatás"
@@ -9189,10 +8932,6 @@ msgstr "Internet-kapcsolat ellenőrzésének mellőzése (automatikus csomag-tel
 msgid "Skip jumping to live TV while timeshifting with plugins"
 msgstr ""
 
-#, fuzzy
-msgid "Sleep Timer Editor Actions"
-msgstr "Elalvás időzítő beállításai"
-
 msgid "Sleep timer"
 msgstr "Elalvás időzítő"
 
@@ -9438,10 +9177,6 @@ msgstr "Készenlét"
 
 msgid "Standby / restart"
 msgstr "Készenlét / újraindítás"
-
-#, fuzzy
-msgid "Standby Actions"
-msgstr "Készenlétbe: "
 
 msgid "Standby LED"
 msgstr "Készenléti LED"
@@ -9936,10 +9671,6 @@ msgstr "Tádzsikisztán"
 msgid "Tanzania, United Republic of"
 msgstr "Tanzánia"
 
-#, fuzzy
-msgid "Teletext Actions"
-msgstr "Művelet kiválasztása"
-
 msgid "Teletext subtitle color"
 msgstr "Teletext felirat színe"
 
@@ -9966,13 +9697,6 @@ msgstr "Fényerő"
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr "A tesztképernyők segítenek a kijelző finomhangolását elvégezni."
-
-#, fuzzy
-msgid "Text Edit Actions"
-msgstr "Kiválasztás módosítása"
-
-msgid "Text Entry Actions"
-msgstr ""
 
 msgid "Text View On"
 msgstr "Text View On"
@@ -10466,10 +10190,6 @@ msgstr "Időzóna területe"
 msgid "Timer"
 msgstr "Időzítő"
 
-#, fuzzy
-msgid "Timer Edit Actions"
-msgstr "Időzítés kiválasztása"
-
 msgid "Timer Overview"
 msgstr "Időzítő áttekintés"
 
@@ -10754,10 +10474,6 @@ msgstr "Fordulási lépésköz"
 
 msgid "Tuvalu"
 msgstr "Tuvalu"
-
-#, fuzzy
-msgid "Tv Radio Actions"
-msgstr "Hangcsatorna kiválasztása"
 
 msgid "Two"
 msgstr "Kettő"
@@ -11285,19 +11001,11 @@ msgstr "Virgin-szigetek (Angol)"
 msgid "Virgin Islands (U.S.)"
 msgstr "Virgin-szigetek (Amerikai)"
 
-#, fuzzy
-msgid "Virtual Key Board Actions"
-msgstr "Virtuális Billentyűzet Funkciók"
-
 msgid "Virtual KeyBoard Functions"
 msgstr "Virtuális Billentyűzet Funkciók"
 
 msgid "Virtual KeyBoard Text:"
 msgstr "Virtuális Billentyűzet Szöveg:"
-
-#, fuzzy
-msgid "Virtual Keyboard Actions"
-msgstr "Virtuális Billentyűzet Funkciók"
 
 msgid "Virtual keyboard"
 msgstr "Virtuális Billentyűzet"
@@ -11719,10 +11427,6 @@ msgstr "Amikor a beltéri egység felébred készenlétből vagy mély-készenl�
 msgid "Where to save temporary timeshift recordings?"
 msgstr "Hová kerüljenek az átmeneti időcsúsztatás felvételek?"
 
-#, fuzzy
-msgid "Window Actions"
-msgstr "Kinézet választás műveletek"
-
 msgid "Wireless LAN"
 msgstr "Vezeték nélküli hálózat"
 
@@ -11764,10 +11468,6 @@ msgstr "Ezzel megváltoztathatja a LED színét vagy kikapcsolhatja a LED-et."
 
 msgid "Without popup"
 msgstr "Figyelmeztetés nélkül"
-
-#, fuzzy
-msgid "Wizard Actions"
-msgstr "Varázsló beállítása"
 
 msgid "Wizard setup"
 msgstr "Varázsló beállítása"

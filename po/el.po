@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OpenPLI Enigma2 Official Greek Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-18 13:25+0000\n"
+"POT-Creation-Date: 2024-12-15 13:08+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: MCelliotG <mcelliotg@gmail.com>\n"
 "Language-Team: MCelliotG <mcelliotg@gmail.com>\n"
@@ -1134,10 +1134,6 @@ msgstr "PID ήχου"
 msgid "Audio PID%s, codec & lang"
 msgstr "PID ήχου%s, κωδικοποιητής & γλώσσα"
 
-#, fuzzy
-msgid "Audio Selection Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
 msgid "Audio auto volume level"
 msgstr "Αυτόματο επίπεδο έντασης ήχου"
 
@@ -1744,18 +1740,6 @@ msgid "Channel Info"
 msgstr "Πληροφορίες καναλιού"
 
 #, fuzzy
-msgid "Channel Select Base Actions"
-msgstr "Επιλογή καναλιού"
-
-#, fuzzy
-msgid "Channel Select Edit Actions"
-msgstr "Επιλογή καναλιού"
-
-#, fuzzy
-msgid "Channel SelectEPG Actions"
-msgstr "Επιλογή καναλιού"
-
-#, fuzzy
 msgid "Channel Selection"
 msgstr "Επιλογή καναλιού"
 
@@ -1884,10 +1868,6 @@ msgstr "Επιλέξτε ποιο tuner θα ρυθμίσετε."
 msgid "Christmas Island"
 msgstr "Νήσος των Χριστουγέννων"
 
-#, fuzzy
-msgid "Ci Selection Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
 msgid "Circular LNB"
 msgstr "LNB κυκλικής πόλωσης"
 
@@ -1949,9 +1929,6 @@ msgstr "Κωδικορυθμός LP"
 msgid "Codec & lang%s"
 msgstr "Κωδικοποιητής και γλώσσα %s"
 
-msgid "Collapse"
-msgstr ""
-
 msgid "Collection name"
 msgstr "Όνομα συλλογής"
 
@@ -1963,10 +1940,6 @@ msgstr "Κολομβία"
 
 msgid "Color"
 msgstr "Χρώμα"
-
-#, fuzzy
-msgid "Color Actions"
-msgstr "Ενέργειες επιλογής θέματος"
 
 msgid "Color format"
 msgstr "Φορμά χρώματος"
@@ -1995,6 +1968,10 @@ msgstr "Κοινή διεπαφή"
 msgid "Common Interface assignment"
 msgstr "Ανάθεση Κοινής Διεπαφής"
 
+#, fuzzy
+msgid "Common Setup Actions"
+msgstr "Ενέργειες επιλογής θέματος"
+
 msgid "Communication"
 msgstr "Επικοινωνία"
 
@@ -2013,9 +1990,8 @@ msgstr "Σύνθετη (επιτρέπει τη μίξη ροών ήχου κα�
 msgid "Composition of the recording filenames"
 msgstr "Σύνθεση ονομάτων των εγγραφών"
 
-#, fuzzy
-msgid "Config List Actions"
-msgstr "Ενέργειες επιλογής θέματος"
+msgid "Compress"
+msgstr "Συμπίεση"
 
 msgid "Config Scan Details"
 msgstr "Ρύθμιση πληροφοριών ανίχνευσης"
@@ -2568,14 +2544,6 @@ msgstr "Ρύθμιση της συμπεριφοράς του κέρσορα σ�
 msgid "Cut"
 msgstr "Αποκοπή"
 
-#, fuzzy
-msgid "Cut List Editor Actions"
-msgstr "Επεξεργασία σημείων αποκοπής"
-
-#, fuzzy
-msgid "Cutlist Seek Actions"
-msgstr "Επεξεργασία σημείων αποκοπής"
-
 msgid "Cutlist editor"
 msgstr "Επεξεργασία σημείων αποκοπής"
 
@@ -2641,18 +2609,6 @@ msgstr "Εγγραφή DVD"
 
 msgid "DVD Menu"
 msgstr "Μενού DVD"
-
-#, fuzzy
-msgid "DVD Player Actions"
-msgstr "Αναπαραγωγός DVD"
-
-#, fuzzy
-msgid "DVD Title List"
-msgstr "Λίστα τίτλων DVD"
-
-#, fuzzy
-msgid "DVD Toolbox"
-msgstr "Εργαλειοθήκη πολυμέσων DVD"
 
 msgid "DVD data format"
 msgstr "Φορμά δεδομένων DVD"
@@ -2945,10 +2901,6 @@ msgstr "Αφαίρεση ψηφιακού περιγράμματος"
 msgid "Direct playback of linked titles without menu"
 msgstr "Άμεση αναπαραγωγή των συνδεδεμένων τίτλων χωρίς μενού"
 
-#, fuzzy
-msgid "Direction Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
 msgid "Directory"
 msgstr "Φάκελος"
 
@@ -3072,10 +3024,6 @@ msgid ""
 msgstr ""
 "Θέλετε σίγουρα να ελεγχθεί το σύστημα αρχείων;\n"
 "Ενδέχεται να διαρκέσει αρκετή ώρα!"
-
-#, fuzzy
-msgid "Do you really want to clear this playlist?"
-msgstr "Θέλετε σίγουρα να γίνει διαγραφή του %s;"
 
 #, python-format
 msgid "Do you really want to delete %s?"
@@ -3276,10 +3224,6 @@ msgstr ""
 
 msgid "EPG"
 msgstr "EPG"
-
-#, fuzzy
-msgid "EPG Select Actions"
-msgstr "Επιλογή ενέργειας"
 
 msgid "EPG language selection 1"
 msgstr "Επιλογή γλώσσας EPG 1"
@@ -3675,14 +3619,6 @@ msgstr "Διεπαφή ενσύρματου δικτύου"
 
 msgid "Ethiopia"
 msgstr "Αιθιοπία"
-
-#, fuzzy
-msgid "Event View Actions"
-msgstr "Μενού προγραμμάτων"
-
-#, fuzzy
-msgid "Event ViewEPG Actions"
-msgstr "Μενού προγραμμάτων"
 
 msgid "Event font size (relative to skin size)"
 msgstr "Μέγεθος γραμματοσειράς προγράμματος (σε σχέση με το μέγεθος του θέματος)"
@@ -4185,10 +4121,6 @@ msgstr "Ανάλυση πλήρους οθόνης"
 msgid "Fullbackup Images"
 msgstr "Πλήρης εφεδρεία των images"
 
-#, fuzzy
-msgid "Function Key Actions"
-msgstr "Λειτουργία κουμπιού OK"
-
 msgid "Function of OK button"
 msgstr "Λειτουργία κουμπιού OK"
 
@@ -4203,10 +4135,6 @@ msgstr "G"
 
 msgid "GB"
 msgstr "GB"
-
-#, fuzzy
-msgid "GMEPG Select Actions"
-msgstr "Επιλογή ενέργειας"
 
 msgid "GREEN"
 msgstr ""
@@ -4262,9 +4190,6 @@ msgstr "Γκάνα"
 
 msgid "Gibraltar"
 msgstr "Γιβραλτάρ"
-
-msgid "Global Actions"
-msgstr ""
 
 msgid "Go down the list"
 msgstr "Μετάβαση προς τα κάτω"
@@ -4496,10 +4421,6 @@ msgid "Help"
 msgstr ""
 
 #, fuzzy
-msgid "Help Actions"
-msgstr "Επιλογή ενέργειας"
-
-#, fuzzy
 msgid "Help Screen"
 msgstr "Οθόνη αναμονής"
 
@@ -4577,10 +4498,6 @@ msgstr "Ρυθμίσεις HotKey"
 
 msgid "Hotkey"
 msgstr "Hotkey"
-
-#, fuzzy
-msgid "Hotkey Actions"
-msgstr "ανώτερη εκπαίδευση"
 
 msgid "Hotkey Panic"
 msgstr "Hotkey πανικός"
@@ -4818,90 +4735,8 @@ msgstr "Μπάρα πληροφοριών"
 msgid "Info bar timeout"
 msgstr "Χρόνος εμφάνισης πληροφοριών"
 
-#, fuzzy
-msgid "Infobar Actions"
-msgstr "Χρόνος εμφάνισης πληροφοριών"
-
-#, fuzzy
-msgid "Infobar Audio Selection Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
-#, fuzzy
-msgid "Infobar Channel Selection"
-msgstr "Επιλογή καναλιού"
-
-msgid "Infobar Cue Sheet Actions"
-msgstr ""
-
-#, fuzzy
-msgid "Infobar Extensions"
-msgstr "Εγκατάσταση επεκτάσεων"
-
-#, fuzzy
-msgid "Infobar Instant Record"
-msgstr "Άμεση εγγραφή"
-
-#, fuzzy
-msgid "Infobar Menu Actions"
-msgstr "Χρόνος εμφάνισης πληροφοριών"
-
-#, fuzzy
-msgid "Infobar Movie List Actions"
-msgstr "Ρύθμιση λίστας ταινιών"
-
-#, fuzzy
-msgid "Infobar PiP Actions"
-msgstr "Χρόνος εμφάνισης πληροφοριών"
-
-#, fuzzy
-msgid "Infobar Rds Actions"
-msgstr "Χρόνος εμφάνισης πληροφοριών"
-
-msgid "Infobar Red Button Actions"
-msgstr ""
-
-#, fuzzy
-msgid "Infobar Seek Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
-msgid "Infobar Show Hide Actions"
-msgstr ""
-
-msgid "Infobar Subservice Quickzap Actions"
-msgstr ""
-
-#, fuzzy
-msgid "Infobar Subservice Selection Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
-#, fuzzy
-msgid "Infobar Subtitle Selection Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
-#, fuzzy
-msgid "Infobar Teletext Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
-msgid "Infobar Timer Button Actions"
-msgstr ""
-
-#, fuzzy
-msgid "Infobar Timeshift Actions"
-msgstr "Τοποθεσία χρονομετατόπισης"
-
-#, fuzzy
-msgid "Infobar Timeshift Activate Actions"
-msgstr "Τοποθεσία χρονομετατόπισης"
-
-msgid "Infobar Vmode Button Actions"
-msgstr ""
-
 msgid "Infobar frontend data source"
 msgstr "Πηγή δεδομένων tuner στη μπάρα πληροφοριών"
-
-#, fuzzy
-msgid "InfobarEPG Actions"
-msgstr "Χρόνος εμφάνισης πληροφοριών"
 
 msgid "Information"
 msgstr "Πληροφορίες"
@@ -4948,16 +4783,6 @@ msgstr "Εισαγωγή"
 msgid "Input "
 msgstr "Εισαγωγή "
 
-#, fuzzy
-msgid "Input Actions"
-msgstr "Εισαγωγή "
-
-msgid "Input Ascii Actions"
-msgstr ""
-
-msgid "Input Box Actions"
-msgstr ""
-
 msgid "Input Stream ID"
 msgstr "ID ροής εισόδου"
 
@@ -4989,10 +4814,6 @@ msgstr "Εγκατάσταση τοπικής επέκτασης"
 
 msgid "Install picons on"
 msgstr "Εγκατάσταση λογότυπων σε"
-
-#, fuzzy
-msgid "Install plugin"
-msgstr "Εγκατάσταση"
 
 msgid "Installation has completed."
 msgstr "Η εγκατάσταση ολοκληρώθηκε."
@@ -5181,10 +5002,6 @@ msgstr "Βασικά προγράμματα"
 msgid "Keyboard"
 msgstr "Πληκτρολόγιο"
 
-#, fuzzy
-msgid "Keyboard Input Actions"
-msgstr "Λειτουργίες εικονικού πληκτρολογίου"
-
 msgid "Keyboard data entry"
 msgstr "Εισαγωγή δεδομένων πληκτρολογίου"
 
@@ -5355,13 +5172,6 @@ msgid "List version %(ver)d, found %(num)d channel"
 msgid_plural "List version %(ver)d, found %(num)d channels"
 msgstr[0] "Έκδοση λίστας %(ver)d, βρέθηκε %(num)d κανάλι"
 msgstr[1] "Έκδοση λίστας %(ver)d, βρέθηκαν %(num)d κανάλια"
-
-#, fuzzy
-msgid "Listbox Actions"
-msgstr "Τοποθεσία"
-
-msgid "Listbox Help Menu Actions"
-msgstr ""
 
 msgid "Listen to the radio..."
 msgstr "Ακρόαση ραδιοφώνου..."
@@ -5581,16 +5391,6 @@ msgstr "Πιθανώς κάποια εγγραφή βρίσκεται σε εξ�
 msgid "Mayotte"
 msgstr "Μαγιότ"
 
-#, fuzzy
-msgid "Media Player Actions"
-msgstr "Αναπαραγωγή πολυμέσων"
-
-msgid "Media Player Cue Sheet Actions"
-msgstr ""
-
-msgid "Media Player Seek Actions"
-msgstr ""
-
 msgid "Media player"
 msgstr "Αναπαραγωγή πολυμέσων"
 
@@ -5614,10 +5414,6 @@ msgstr "Θέση στη μνήμη"
 
 msgid "Menu"
 msgstr "Μενού"
-
-#, fuzzy
-msgid "Menu Actions"
-msgstr "Ενέργειες επιλογής θέματος"
 
 #, fuzzy
 msgid "Menu button function"
@@ -5648,10 +5444,6 @@ msgstr "Ελάχιστη ηλικία %d"
 
 msgid "Minimum send interval"
 msgstr "Ελάχιστο διάστημα αποστολής"
-
-#, fuzzy
-msgid "Minute Input Actions"
-msgstr "Επιλογή λειτουργίας"
 
 msgid "Missing "
 msgstr "Λείπει "
@@ -5810,14 +5602,6 @@ msgstr "Κίνηση στην αποθηκευμένη θέση"
 msgid "Movement"
 msgstr "Κίνηση"
 
-#, fuzzy
-msgid "Movie Player Actions"
-msgstr "Επιλογή ταινιών"
-
-#, fuzzy
-msgid "Movie Selection Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
 msgid "Movie list configuration"
 msgstr "Ρύθμιση λίστας ταινιών"
 
@@ -5844,9 +5628,6 @@ msgstr "Κίνηση δυτικά..."
 
 msgid "Mozambique"
 msgstr "Μοζαμβίκη"
-
-msgid "Msg Box Actions"
-msgstr ""
 
 msgid "Multi EPG"
 msgstr "Πολλαπλός EPG"
@@ -5932,10 +5713,6 @@ msgstr "Ναουρού"
 
 msgid "Navigate up/down with UP/DOWN buttons and page up/down with LEFT/RIGHT. EXIT to return to the help screen. OK to perform the action described in the currently highlighted help."
 msgstr ""
-
-#, fuzzy
-msgid "Navigation Actions"
-msgstr "Ενέργειες επιλογής θέματος"
 
 msgid "Nepal"
 msgstr "Νεπάλ"
@@ -6269,10 +6046,6 @@ msgstr "Αναπαραγωγή τώρα"
 msgid "Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK."
 msgstr "Τώρα, χρησιμοποιήστε τις ρυθμίσεις αντίθεσης για να μεγιστοποιήσετε τη φωτεινότητα του φόντου, αλλά βεβαιωθείτε ότι μπορείτε να διακρίνετε τη διαφορά ανάμεσα στις δύο φωτεινότερες σκιές. Εάν το κάνατε, πιέστε ΟΚ."
 
-#, fuzzy
-msgid "Number Actions"
-msgstr "ανώτερη εκπαίδευση"
-
 msgid "Number of channels shown in channel selection list"
 msgstr "Αριθμός καναλιών που εμφανίζονται στη λίστα επιλογής"
 
@@ -6315,10 +6088,6 @@ msgstr "Κλειστό"
 
 msgid "Offline decode delay (ms)"
 msgstr "Καθυστέρηση αποκωδικοποίησης εκτός σύνδεσης (ms)"
-
-#, fuzzy
-msgid "Ok Cancel Actions"
-msgstr "Ακύρωση εκτέλεσης;"
 
 msgid "Oman"
 msgstr "Ομάν"
@@ -6619,10 +6388,6 @@ msgstr "Περού"
 
 msgid "Philippines"
 msgstr "Φιλιππίνες"
-
-#, fuzzy
-msgid "PiP Setup Actions"
-msgstr "Ενέργειες επιλογής θέματος"
 
 msgid "PiP setup"
 msgstr "Ρύθμιση PiP"
@@ -7000,9 +6765,6 @@ msgstr "Ρύθμιση μοτέρ"
 msgid "Positioner setup log"
 msgstr "Καταγραφή ρυθμίσεων μοτέρ"
 
-msgid "Power Key Actions"
-msgstr ""
-
 msgid "Power LED"
 msgstr "LED ένδειξης λειτουργίας"
 
@@ -7341,10 +7103,6 @@ msgstr "Δίσκος RAM"
 msgid "Random"
 msgstr "Τυχαίος"
 
-#, fuzzy
-msgid "Rass Interactive Actions"
-msgstr "Εμφάνιση διαδραστικού Rass..."
-
 #, python-format
 msgid "Rating defined by broadcaster - %d"
 msgstr "Βαθμολογία καθορισμένη από τον πάροχο - %d"
@@ -7563,10 +7321,6 @@ msgstr "Διαγραφή αντικειμένων από τον κάδο αχρ�
 
 msgid "Remove new found flag"
 msgstr "Αφαίρεση σημαίας \"νέο\""
-
-#, fuzzy
-msgid "Remove plugin"
-msgstr "Απεγκατάσταση προσθέτων"
 
 msgid "Remove plugins"
 msgstr "Απεγκατάσταση προσθέτων"
@@ -7932,9 +7686,6 @@ msgstr "Γεωγραφικό μήκος δορυφόρου:"
 
 msgid "Satellites"
 msgstr "Δορυφόροι"
-
-msgid "Satlist Shortcut Action"
-msgstr ""
 
 msgid "Sats"
 msgstr "Δορυφόροι"
@@ -8726,10 +8477,6 @@ msgstr "Οι ρυθμίσεις μπορεί να είναι ξεχωριστέ�
 msgid "Setup"
 msgstr "Ρυθμίσεις"
 
-#, fuzzy
-msgid "Setup Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
 msgid "Setup hard disk"
 msgstr "Ρύθμιση σκληρού δίσκου"
 
@@ -8759,10 +8506,6 @@ msgstr "Shift"
 
 msgid "Short filenames"
 msgstr "Σύντομα ονόματα"
-
-#, fuzzy
-msgid "Shortcut Actions"
-msgstr "Επιλογή ενέργειας"
 
 msgid "Show"
 msgstr "Εμφάνιση"
@@ -9141,10 +8884,6 @@ msgstr "Παράλειψη ελέγχου σύνδεσης στο διαδίκτ
 msgid "Skip jumping to live TV while timeshifting with plugins"
 msgstr "Παράκαμψη μετάβασης σε ζωντανή TV κατά την χρονομετατόπιση με πρόσθετα"
 
-#, fuzzy
-msgid "Sleep Timer Editor Actions"
-msgstr "Ρύθμιση Χρονοδιακόπτη Ύπνου"
-
 msgid "Sleep timer"
 msgstr "Χρονοδιακόπτης ύπνου"
 
@@ -9389,10 +9128,6 @@ msgstr "Αναμονή"
 
 msgid "Standby / restart"
 msgstr "Αναμονή / επανεκκίνηση"
-
-#, fuzzy
-msgid "Standby Actions"
-msgstr "Αναμονή σε "
 
 msgid "Standby LED"
 msgstr "LED αναμονής"
@@ -9879,10 +9614,6 @@ msgstr "Τατζικιστάν"
 msgid "Tanzania, United Republic of"
 msgstr "Τανζανία (Ένωση)"
 
-#, fuzzy
-msgid "Teletext Actions"
-msgstr "Επιλογή ενέργειας"
-
 msgid "Teletext subtitle color"
 msgstr "Χρώμα υποτίτλων τηλεκειμένου"
 
@@ -9909,13 +9640,6 @@ msgstr "Οθόνες δοκιμών"
 
 msgid "Testscreens that are helpfull to fine-tune your display"
 msgstr "Δοκιμαστικές κάρτες που βοηθούν να μικρορυθμίσετε την οθόνη σας"
-
-#, fuzzy
-msgid "Text Edit Actions"
-msgstr "Επεξεργασία επιλογής"
-
-msgid "Text Entry Actions"
-msgstr ""
 
 msgid "Text View On"
 msgstr "Επισκόπηση κειμένου ενεργή"
@@ -10407,10 +10131,6 @@ msgstr "Περιοχή χρονικής ζώνης"
 msgid "Timer"
 msgstr "Χρονοδιακόπτης"
 
-#, fuzzy
-msgid "Timer Edit Actions"
-msgstr "Επιλογή χρονοδιακόπτη"
-
 msgid "Timer Overview"
 msgstr "Επισκόπηση χρονοδιακοπτών"
 
@@ -10695,10 +10415,6 @@ msgstr "Μέγεθος βήματος περιστροφής"
 
 msgid "Tuvalu"
 msgstr "Τουβαλού"
-
-#, fuzzy
-msgid "Tv Radio Actions"
-msgstr "Στην επιλογή ήχου"
 
 msgid "Two"
 msgstr "Δύο"
@@ -11226,19 +10942,11 @@ msgstr "Παρθένες Νήσοι (Βρετανικές)"
 msgid "Virgin Islands (U.S.)"
 msgstr "Παρθένες Νήσοι (Η.Π.Α.)"
 
-#, fuzzy
-msgid "Virtual Key Board Actions"
-msgstr "Λειτουργίες εικονικού πληκτρολογίου"
-
 msgid "Virtual KeyBoard Functions"
 msgstr "Λειτουργίες εικονικού πληκτρολογίου"
 
 msgid "Virtual KeyBoard Text:"
 msgstr "Κείμενο εικονικού πληκτρολογίου:"
-
-#, fuzzy
-msgid "Virtual Keyboard Actions"
-msgstr "Λειτουργίες εικονικού πληκτρολογίου"
 
 msgid "Virtual keyboard"
 msgstr "Εικονικό πληκτρολόγιο"
@@ -11660,10 +11368,6 @@ msgstr "Όταν ο δέκτης επανέρχεται από την κοινή
 msgid "Where to save temporary timeshift recordings?"
 msgstr "Που θέλετε να αποθηκεύονται προσωρινά οι χρονομετατοπισμένες εγγραφές;"
 
-#, fuzzy
-msgid "Window Actions"
-msgstr "Ενέργειες επιλογής θέματος"
-
 msgid "Wireless LAN"
 msgstr "Ασύρματο δίκτυο"
 
@@ -11705,10 +11409,6 @@ msgstr "Με αυτή την επιλογή μπορείτε να αλλάξετ
 
 msgid "Without popup"
 msgstr "Χωρίς αναδυόμενο παράθυρο"
-
-#, fuzzy
-msgid "Wizard Actions"
-msgstr "Ρύθμιση οδηγού"
 
 msgid "Wizard setup"
 msgstr "Ρύθμιση οδηγού"
